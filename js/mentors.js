@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
       name: "Esteban Ortiz, Msc",
       title: "Bioingeneer",
       bio:"Esteban is a mechanical engineer who holds a Master's degree in Bioengineering. He completed his undergraduate studies at the National Polytechnic School (Ecuador) and earned his Master's degree from Rice University. His experience encompasses the Biomechanics and Mechanobiology of hard and soft tissues, with an emphasis on cardiovascular, respiratory, intestinal, and musculoskeletal modeling. He has applied this knowledge to research aimed at understanding the mechanics of human organs, tissues, and cells, as well as to the development of medical devices and tissue engineering. He has worked in both the United States and Ecuador."
-    }
+    },
   };
 
   // Mentor modal functionality
