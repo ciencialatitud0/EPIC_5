@@ -1,4 +1,4 @@
-# Tutorials and Talks:
+# Tutorials, Talks and Final Challenges:
 
 Here you can find all the material developed in lectures and tutorials during EPIC 5:
 
@@ -13,6 +13,13 @@ Here you can find all the material developed in lectures and tutorials during EP
 #### Tutorial 5: https://github.com/ciencialatitud0/EPIC_5/tree/main/Tutorials/tutorial_5
 
 #### Tutorial 6: https://github.com/ciencialatitud0/EPIC_5/tree/main/Tutorials/tutorial_6
+
+
+#### Talks: https://github.com/ciencialatitud0/EPIC_5/tree/main/Tutorials/talks
+
+
+#### Final Challenges: https://github.com/ciencialatitud0/EPIC_5/tree/main/Tutorials/challenges
+
 
 # Schedule:
 
