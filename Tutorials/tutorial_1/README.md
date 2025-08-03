@@ -4,7 +4,7 @@
 
 _Un viaje por el universo de los datos y su impacto transformador._
 
-Este repositorio contiene recursos, presentaciones y materiales didácticos introductorios sobre **Ciencia de Datos**. Es ideal para quienes inician en este fascinante campo, así como para docentes que deseen compartir conceptos clave de forma clara y visual.
+Este repositorio contiene recursos, presentaciones y materiales didácticos introductorios sobre **Ciencia de Datos**. Es ideal para quienes inician en este fascinante campo.
 
 ---
 
