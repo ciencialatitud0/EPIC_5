@@ -25,28 +25,5 @@ El algoritmo simula el comportamiento de un banco de peces al buscar zonas con a
 - Selección de características
 - Ajuste de hiperparámetros
 
----
 
-## 🧪 Ejemplo de uso
-
-```python
-from fish_school_search import FSS
-
-# Definimos una función objetivo (ejemplo clásico)
-def sphere_function(x):
-    return sum([xi**2 for xi in x])
-
-# Configuración
-fss = FSS(
-    function=sphere_function,
-    dimensions=10,
-    num_fish=30,
-    iterations=1000,
-    lower_bound=-5.12,
-    upper_bound=5.12
-)
-
-best_solution, best_score = fss.run()
-print("Mejor solución:", best_solution)
-print("Mejor valor de la función objetivo:", best_score)
 
