@@ -1,6 +1,4 @@
-# Tutorial 1: Introduction to Data Science (Paulina Vizcaino, UIDE)
-
-# 📊 Introducción a la Ciencia de Datos
+# Tutorial 1: 📊 Introduction to Data Science (Paulina Vizcaino, UIDE)
 
 _Un viaje por el universo de los datos y su impacto transformador._
 
