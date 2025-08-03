@@ -1,6 +1,6 @@
-# 🐟 Fish School Search (FSS) Algorithm - Bioinspired Optimization
+# 🐟 Fish Swarm Algorithm, FSA  - Bioinspired Optimization
 
-Este repositorio implementa el **Fish School Search (FSS)**, un algoritmo de optimización bioinspirado en el comportamiento colectivo de bancos de peces en busca de alimento. Es una alternativa robusta y versátil frente a otros enfoques evolutivos para resolver problemas complejos de optimización.
+Este repositorio implementa el **Fish Swarm Algorithm, FSA**, un algoritmo de optimización bioinspirado en el comportamiento colectivo de bancos de peces en busca de alimento. Es una alternativa robusta y versátil frente a otros enfoques evolutivos para resolver problemas complejos de optimización.
 
 ## 📌 Descripción
 
