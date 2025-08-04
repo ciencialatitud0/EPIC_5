@@ -37,25 +37,25 @@ One option is to use Google Colab, for which you would need a Google account, wh
 ### 1. Introduction to Digital Images
 - Brief intro to digital images
 
-	* [Intro_DigitalImages.ipynb](./code/0_Intro_DigitalImages.ipynb)
+	* [0_Intro_DigitalImages.ipynb](./code/0_Intro_DigitalImages.ipynb)
 	* GoogleColab:
- 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_3/blob/main/Day_2/Intro_DigitalImages.ipynb)
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/hernanmorales-navarrete/EPIC_5/blob/main/Tutorials/tutorial_6/code/0_Intro_DigitalImages.ipynb)
  
  
 ### 2. BioImage Analysis with Python
 
 - It is a step by step pipeline for segmenting cells in 2D fluorescence microscopy images (with labeled membranes)
-	* [Image_analysis_tutorial.ipynb](./code/1_Image_analysis_tutorial.ipynb)
+	* [1_Image_analysis_tutorial.ipynb](./code/1_Image_analysis_tutorial.ipynb)
 	* GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_3/blob/main/Day_2/Image_analysis_tutorial.ipynb)
 
-### 1. Noise Removal using Autoencoders
+### 3. Noise Removal using Autoencoders
 - Short description
 	* [1_NoiseRemoval_Autoencoders.ipynb](./code/2_NoiseRemoval_Autoencoders.ipynb)
 	* GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/1_NoiseRemoval_Autoencoders.ipynb)
 
-### 2. Image Segmentation using UNet
+### 4. Image Segmentation using UNet
 - Short description
 	* [2_ImageSegmentation_UNet.ipynb](./code/3_ImageSegmentation_UNet.ipynb)
 	* GoogleColab:
