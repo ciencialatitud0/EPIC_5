@@ -52,15 +52,15 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 ### 3. Noise Removal using Autoencoders
 - Short description
-	* [1_NoiseRemoval_Autoencoders.ipynb](./code/2_NoiseRemoval_Autoencoders.ipynb)
+	* [2_NoiseRemoval_Autoencoders.ipynb](./code/2_NoiseRemoval_Autoencoders.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/1_NoiseRemoval_Autoencoders.ipynb)
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_5/blob/main/Tutorials/tutorial_6/code/2_NoiseRemoval_Autoencoders.ipynb)
 
 ### 4. Image Segmentation using UNet
 - Short description
-	* [2_ImageSegmentation_UNet.ipynb](./code/3_ImageSegmentation_UNet.ipynb)
+	* [3_ImageSegmentation_UNet.ipynb](./code/3_ImageSegmentation_UNet.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/2_ImageSegmentation_UNet.ipynb)
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_5/blob/main/Tutorials/tutorial_6/code/3_ImageSegmentation_UNet.ipynb)
 
 ## Disclaimer
 - Part of these materials have been adapted from the original versions: 
