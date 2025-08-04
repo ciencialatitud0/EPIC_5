@@ -1,1 +1,1 @@
-# Tutorial 6: AI for biophysics (Andrés Morales-Navarrete, UDLA)
+# Tutorial 6: AI for bioimage analyisis (Andrés Morales-Navarrete, UDLA)
