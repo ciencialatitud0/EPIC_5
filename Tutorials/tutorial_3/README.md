@@ -21,4 +21,4 @@ https://github.com/wbandabarragan/EPIC_5/blob/main/Tutorials/tutorial_3/2_gaussc
 
 This is based on disentangling hierarchical structures:
 
-https://github.com/wbandabarragan/Bootcamp2025/blob/main/Tutorials/tutorial_3/3_dendogram.ipynb
+https://github.com/wbandabarragan/EPIC_5/blob/main/Tutorials/tutorial_3/3_dendogram.ipynb
