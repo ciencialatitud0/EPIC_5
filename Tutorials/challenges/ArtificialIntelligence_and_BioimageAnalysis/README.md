@@ -28,7 +28,7 @@ The goal of this challenge is to develop a standalone python code for creating m
    * Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary.
    * Your creativity in the evaluation workflow will be graded too.
 
-An smaller dataset can be downloaded form [Evaluation Data](https://drive.google.com/file/d/1OI_9DI6ZDxUPrGI6IHfon9dsetqnB4we/view?usp=sharing).
+An smaller dataset can be downloaded from [Samall DataSet](https://drive.google.com/file/d/1OI_9DI6ZDxUPrGI6IHfon9dsetqnB4we/view?usp=sharing).
 
 ## Submission Guidelines
 * Submit the complete code used in algorithm development.
