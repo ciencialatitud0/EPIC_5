@@ -9,7 +9,7 @@ The goal of this challenge is to develop a standalone python code for creating m
 
 ## Challenge Steps
 1. Data Download:
-   * Download the image data from [Training Data](https://drive.google.com/drive/folders/1tLrE2akKF_bZ9pQby3_rtsgCmlzKe7f-?usp=sharing)
+   * Download the image data from [Training Data](https://drive.google.com/file/d/1hdDLdRU1Ls8yA5T8KMdzIbwPAi_CxgGG/view?usp=sharing)
    * Use as many images as needed for algorithm development.
    * The images (time frames) are located in the subfolders '../images'
    * The masks  (time frames) are located in the subfolders '../masks'
@@ -21,13 +21,14 @@ The goal of this challenge is to develop a standalone python code for creating m
    * Develop an algorithm to generate masks. Use any algorithm, including machine learning.
    * Clearly document the algorithm steps in the code.
    * You can use denoising algorithms to improve teh segemnattion results if you consider it necessary.
-   * Use UNet from Tutorial 2 as base line
+   * Use UNet from Tutorial 2 as base line 
 
 5. Evaluation:
-   * Evaluate the algorithm on images from [Evaluation Data](https://drive.google.com/drive/folders/1yEtBTO41igEbXU_DG2ACTM4JOCp2XTyx?usp=drive_link) 
+   * Evaluate the algorithm on images from [Evaluation Data](https://drive.google.com/file/d/1hdDLdRU1Ls8yA5T8KMdzIbwPAi_CxgGG/view?usp=sharing) 
    * Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary.
    * Your creativity in the evaluation workflow will be graded too.
 
+An smaller dataset can be downloaded form [Evaluation Data](https://drive.google.com/file/d/1OI_9DI6ZDxUPrGI6IHfon9dsetqnB4we/view?usp=sharing).
 
 ## Submission Guidelines
 * Submit the complete code used in algorithm development.
