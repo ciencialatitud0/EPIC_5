@@ -21,6 +21,7 @@ The goal of this challenge is to develop a standalone python code for creating m
    * Develop an algorithm to generate masks. Use any algorithm, including machine learning.
    * Clearly document the algorithm steps in the code.
    * You can use denoising algorithms to improve teh segemnattion results if you consider it necessary.
+   * Use UNet from Tutorial 2 as base line
 
 5. Evaluation:
    * Evaluate the algorithm on images from [Evaluation Data](https://drive.google.com/drive/folders/1yEtBTO41igEbXU_DG2ACTM4JOCp2XTyx?usp=drive_link) 
