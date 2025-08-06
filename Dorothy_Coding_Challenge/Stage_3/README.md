@@ -1,1 +1,2 @@
-# Final stage of the Dorothy_Coding_Challenge (6-8 August 2025)
+# Final stage of the Dorothy Coding Challenge 
+(6-8 August 2025)
