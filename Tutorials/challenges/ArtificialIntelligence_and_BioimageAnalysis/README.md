@@ -1,9 +1,9 @@
 
 
-# Zebrafish Embryo Mask Generation from Bright Field Images
+# Segmentatiobn of bright field images of embrionic development
 
 ## Goal
-The goal of this challenge is to develop a standalone python code for creating masks of zebrafish embryos from bright field images (as shown below). Participants are free to choose any image analysis algorithm, including machine learning approaches. 
+The goal of this challenge is to develop a standalone python code for creating masks of zebrafish embryos from bright field images (as shown below). Participants are free to choose any image analysis algorithm, including deep learning approaches. 
 Examples of raw images and the corresponding masks could be found in the [example_data folder](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis/example_data)
 
 ![Workflow](https://github.com/ciencialatitud0/EPIC_3/blob/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis/mask_workflow.png)
