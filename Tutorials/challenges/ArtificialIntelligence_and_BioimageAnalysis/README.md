@@ -4,26 +4,26 @@
 
 ## Goal
 The goal of this challenge is to develop a standalone python code for creating masks of zebrafish embryos from bright field images (as shown below). Participants are free to choose any image analysis algorithm, including deep learning approaches. 
-Examples of raw images and the corresponding masks could be found in the [example_data folder](https://github.com/ciencialatitud0/EPIC_3/tree/main/Dorothy_Coding_Challenge/ArtificialIntelligence_and_BioimageAnalysis/example_data)
 
 ![Workflow](https://github.com/ciencialatitud0/EPIC_5/blob/main/Tutorials/challenges/ArtificialIntelligence_and_BioimageAnalysis/mask_workflow.png)
 
 ## Challenge Steps
 1. Data Download:
-   * Download the image data from [Training Data](https://drive.google.com/drive/folders/1tLrE2akKF_bZ9pQby3_rtsgCmlzKe7f-?usp=sharing) (extra images can be downloaded from [Extra Training Data](https://kondata.uni-konstanz.de/radar/de/dataset/xhEhklsaJUpbRLnY.EmbryoNet_Training-data%253A%2BWT)).
+   * Download the image data from [Training Data](https://drive.google.com/drive/folders/1tLrE2akKF_bZ9pQby3_rtsgCmlzKe7f-?usp=sharing)
    * Use as many images as needed for algorithm development.
-   * The images (tif, png or jpg) are located in the subfolders '../images'
+   * The images (time frames) are located in the subfolders '../images'
+   * The masks  (time frames) are located in the subfolders '../masks'
 
 2. Data Visualization:
    * Visualize example images in a Jupyter notebook to understand dataset characteristics.
 
 3. Algorithm Development:
    * Develop an algorithm to generate masks. Use any algorithm, including machine learning.
-   * Provide annotated masks if using supervised learning. Manual annotations can be done using any free software such as [LabelMe](http://github.com/wkentaro/labelme).
    * Clearly document the algorithm steps in the code.
+   * You can use denoising algorithms to improve teh segemnattion results if you consider it necessary.
 
 5. Evaluation:
-   * Evaluate the algorithm on images from [Evaluation Data](https://drive.google.com/drive/folders/1yEtBTO41igEbXU_DG2ACTM4JOCp2XTyx?usp=drive_link) (extra images can be downloaded from [Extra Evaluation Data](https://kondata.uni-konstanz.de/radar/de/dataset/gckMwoUnrbKCTVDV.TwinNetworkDataZebrafish_Temperature)).
+   * Evaluate the algorithm on images from [Evaluation Data](https://drive.google.com/drive/folders/1yEtBTO41igEbXU_DG2ACTM4JOCp2XTyx?usp=drive_link) 
    * Include comprehensive metrics in the evaluation, such as accuracy, precision, recall, etc. Feel free to include as many metrics as you consider necesary.
    * Your creativity in the evaluation workflow will be graded too.
 
