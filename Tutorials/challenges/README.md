@@ -4,4 +4,4 @@
 
 - Bio-inspired computing
 
-- Image segmentation using deep learning
+- Artificial Intelligence and Bioimage Analysis
